@@ -1,5 +1,5 @@
 # otherworldly-defense
-My 1st Unity project, a 2D tower defense. 
+My 2nd Unity project, a 2D tower defense. 
 
 This was submitted for the December 2022 Game Jam where the theme was *Explosive*.
 
